@@ -1,5 +1,7 @@
 [![NodeSchoolMTL](https://img.shields.io/badge/NodeSchool-MTL-yellow.svg)](http://nodeschool.io/montreal) [![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/nodeschool/montreal) [![Stories in progress](https://img.shields.io/waffle/label/nodeschool/montreal/in%20progress.svg)](https://waffle.io/nodeschool/montreal)
 
+Edit made by UX MTL team - here, now
+
 # NodeSchool Montreal
 
 **NodeSchool** is open source workshops for you to learn web software skills: [http://nodeschool.io/montreal](http://nodeschool.io/montreal/)
